@@ -1,4 +1,4 @@
-//this is a new 
+//修改文件，创建冲突 
 #include<iostream>
 #include<fstream>
 #include<string.h>
