@@ -7,7 +7,10 @@
 #include<time.h>
 #include<queue>
 using namespace std;
-
+int max(){
+	string a="³åÍ»"; 
+	return 1;
+} 
 int min(int a, int b) {
 	return a < b ? a : b;
 }
